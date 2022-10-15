@@ -37,8 +37,7 @@ graph TD;
   - `go get -u github.com/beego/beego/v2@latest`
   - `go get -u github.com/beego/bee/v2@latest`
   - `go get github.com/beego/beego/v2/server/web@v2.0.4`
-  - For env `go get github.com/joho/godotenv`
-  - For cache `go get github.com/patrickmn/go-cache`
+  - `go get github.com/beego/i18n` for **i18n/beego language management**
 
 ## How to Run this Project
 
