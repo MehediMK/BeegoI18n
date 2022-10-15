@@ -34,6 +34,10 @@
             </div>
         </div>
 
+       <div class="footer container">
+        {{datetimefmt .datetime "Y-m-d H:i:s"}}
+       </div>
+
     
 
 

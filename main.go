@@ -9,5 +9,6 @@ import (
 
 func main() {
 	beego.AddFuncMap("i18n", i18n.Tr)
+	beego.AddFuncMap("datetimefmt", beego.Date)
 	beego.Run()
 }

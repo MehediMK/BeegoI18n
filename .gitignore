@@ -1,0 +1,6 @@
+.env
+BeegoI18n
+.idea
+.vscode
+*.exe
+*.exe~

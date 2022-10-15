@@ -7,9 +7,8 @@ import (
 type MainController struct {
 	beego.Controller
 }
-	
-func (c *MainController) Get() {
 
+func (c *MainController) Get() {
 	c.Data["Website"] = "i18n.com"
 	c.Data["Email"] = "astaxie@gmail.com"
 	c.TplName = "index.tpl"
