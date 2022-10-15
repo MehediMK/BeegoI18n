@@ -1,5 +1,6 @@
 .env
 BeegoI18n
+lastupdate.tmp
 .idea
 .vscode
 *.exe
